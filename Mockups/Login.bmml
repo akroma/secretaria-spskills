@@ -9,6 +9,8 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <direction>right</direction>
+        <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22568%2C560%2C630%2C587%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%228%22/%3E</map>
         <newLayout>true</newLayout>
         <text>Login</text>
       </controlProperties>
