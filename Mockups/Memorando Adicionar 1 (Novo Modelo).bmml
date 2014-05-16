@@ -1,12 +1,12 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1299" measuredH="1048" mockupW="960" mockupH="1024">
   <controls>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Title" x="577" y="236" w="-1" h="-1" measuredW="223" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Title" x="577" y="236" w="-1" h="-1" measuredW="223" measuredH="29" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <size>28</size>
         <text>Novo%20Memorando</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::SubTitle" x="1168" y="236" w="-1" h="-1" measuredW="109" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::SubTitle" x="1168" y="236" w="-1" h="-1" measuredW="109" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <size>20</size>
@@ -54,16 +54,21 @@
         <text>Pr%F3ximo</text>
       </controlProperties>
     </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::ComboBox" x="1009" y="321" w="-1" h="-1" measuredW="142" measuredH="59" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::ComboBox" x="1151" y="321" w="-1" h="-1" measuredW="123" measuredH="59" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>--%20Nenhum%20Modelo%20--%0A-%20Estadual%0A-%20Projeto%20Top%20One</text>
+        <text>--%20Novo%20Modelo%20--%0A-%20Estadual%0A-%20Projeto%20Top%20One</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::HRule" x="577" y="511" w="700" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::HRule" x="577" y="797" w="700" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="1018" y="323" w="-1" h="-1" measuredW="129" measuredH="20" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Selecione%20um%20modelo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::HRule" x="577" y="511" w="700" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::HRule" x="577" y="797" w="700" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1"/>
     <control controlID="67" controlTypeID="com.balsamiq.mockups::Component" x="339" y="24" w="960" h="1024" measuredW="960" measuredH="1024" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C213%2C220%2C233%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C233%2C220%2C253%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22299%2C217%2C499%2C237%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22299%2C237%2C499%2C257%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C213%2C220%2C233%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C233%2C220%2C253%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%226%22/%3E</map>
         <override controlID="0" x="0" y="0" w="960" h="1024"/>
         <override controlID="1" x="20" y="176" w="-1" h="-1">
           <text>In%EDcio%2C%20Memorandos%2C%20Adicionar</text>
@@ -75,19 +80,13 @@
         <override controlID="4" x="890" y="89" w="-1" h="-1"/>
         <override controlID="5" x="0" y="151" w="960" h="-1"/>
         <override controlID="6" x="20" y="212" w="200" h="-1"/>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#master_page</src>
       </controlProperties>
     </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="577" y="277" w="700" h="-1" measuredW="654" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="577" y="277" w="700" h="-1" measuredW="654" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>1%20-%20Memorandos%20%20%20%20%20%20%20%20%20%202%20-%20Destinat%E1rios%20%20%20%20%20%20%20%20%20%203%20-%20Anexos%20%20%20%20%20%20%20%20%20%204%20-%20Revis%E3o</text>
-      </controlProperties>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1153" y="320" w="-1" h="-1" measuredW="122" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Adicionar%20Modelo</text>
       </controlProperties>
     </control>
   </controls>
