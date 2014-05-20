@@ -35,8 +35,8 @@
             <borderStyle>square</borderStyle>
             <color>14540253</color>
             <direction>right</direction>
-            <href>Memorando%20Adicionar%201%26bm%3BMemorando%20Adicionar%201.bmml%26bm%3BMemorando%20Adicionar%201.bmml%26bm%3BMemorando%20Adicionar%201.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22833%2C888%2C918%2C915%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%222%22/%3E</map>
+            <href>Memorando%20Adicionar%20%282%29%26bm%3BMemorando%20Adicionar%20%282%29.bmml%26bm%3BMemorando%20Adicionar%20%282%29.bmml%26bm%3BMemorando%20Adicionar%20%282%29.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22833%2C888%2C918%2C915%22%20href%3D%22Memorando%2520Adicionar%2520%282%29.bmml%22%20alt%3D%22Memorando%20Adicionar%20%282%29%22%20id%3D%222%22/%3E</map>
             <menuIcon>false</menuIcon>
             <newLayout>true</newLayout>
             <text>Adicionar</text>
@@ -45,7 +45,7 @@
         <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="35" w="921" h="29" measuredW="243" measuredH="20" zOrder="3" locked="false" isInGroup="118">
           <controlProperties>
             <hrefs/>
-            <selectedIndex>-1</selectedIndex>
+            <selectedIndex>0</selectedIndex>
             <text>Membros%2C%20Cargos%2C%20Modalidades</text>
           </controlProperties>
         </control>
@@ -84,18 +84,16 @@
             <text>Pessoas%20Selecionadas</text>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="21" y="521" w="878" h="187" measuredW="216" measuredH="17" zOrder="11" locked="false" isInGroup="118">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="21" y="521" w="878" h="187" measuredW="349" measuredH="47" zOrder="11" locked="false" isInGroup="118">
           <controlProperties>
-            <text>CFP%2C%20Fun%E7%E3o%2C%20Nome%2C%20Op%E7%F5es</text>
+            <text>CFP%2C%20Fun%E7%E3o%2C%20Nome%2C%20Op%E7%F5es%0A1.15%2C%20Competidor%2C%20William%20Adriano%20Martins%2C%20Remover</text>
             <verticalScrollbar>true</verticalScrollbar>
           </controlProperties>
         </control>
         <control controlID="12" controlTypeID="com.balsamiq.mockups::SearchBox" x="635" y="485" w="265" h="-1" measuredW="120" measuredH="25" zOrder="12" locked="false" isInGroup="118"/>
         <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="805" y="434" w="-1" h="-1" measuredW="95" measuredH="24" zOrder="13" locked="false" isInGroup="118">
           <controlProperties>
-            <href>Memorando%20Adicionar%201%20%28Membros%20Preenchido%29%26bm%3BMemorando%20Adicionar%201%20%28Membros%20Preenchido%29.bmml%26bm%3BMemorando%20Adicionar%201%20%28Membros%20Preenchido%29.bmml%26bm%3BMemorando%20Adicionar%201%20%28Membros%20Preenchido%29.bmml</href>
             <icon>DownArrowIcon%7Cxsmall</icon>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22824%2C595%2C919%2C619%22%20href%3D%22Memorando%2520Adicionar%25201%2520%28Membros%2520Preenchido%29.bmml%22%20alt%3D%22Memorando%20Adicionar%201%20%28Membros%20Preenchido%29%22%20id%3D%2213%22/%3E</map>
             <menuIcon>false</menuIcon>
             <text>Adicionar</text>
           </controlProperties>

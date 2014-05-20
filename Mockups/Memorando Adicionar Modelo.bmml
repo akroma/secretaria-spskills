@@ -36,20 +36,7 @@
     </control>
     <control controlID="67" controlTypeID="com.balsamiq.mockups::Component" x="339" y="24" w="960" h="1024" measuredW="960" measuredH="1024" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C213%2C220%2C233%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C233%2C220%2C253%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22299%2C217%2C499%2C237%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22299%2C237%2C499%2C257%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%226%22/%3E</map>
-        <override controlID="0" x="0" y="0" w="960" h="1024">
-          <text>Home%20-%20Secretaria%20da%20Olimp%EDada%20-%20SENAI-SP%0Ahttp%3A//</text>
-        </override>
-        <override controlID="1" x="20" y="176" w="-1" h="-1">
-          <text>In%EDcio%2C%20Memorandos%2C%20Adicionar</text>
-        </override>
-        <override controlID="2" x="22" y="93" w="-1" h="-1">
-          <text>SECRETARIA</text>
-        </override>
-        <override controlID="3" x="755" y="104" w="-1" h="-1"/>
-        <override controlID="4" x="890" y="89" w="-1" h="-1"/>
-        <override controlID="5" x="0" y="151" w="960" h="-1"/>
-        <override controlID="6" x="20" y="212" w="200" h="-1"/>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C213%2C220%2C233%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C233%2C220%2C253%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C254%2C220%2C274%22%20href%3D%22Memorando%2520Modelos.bmml%22%20alt%3D%22Memorando%20Modelos%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C274%2C220%2C294%22%20href%3D%22Memorando%2520Adicionar%2520Modelo.bmml%22%20alt%3D%22Memorando%20Adicionar%20Modelo%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C295%2C220%2C315%22%20href%3D%22Pessoa.bmml%22%20alt%3D%22Pessoa%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C315%2C220%2C335%22%20href%3D%22Pessoa%2520Adicionar.bmml%22%20alt%3D%22Pessoa%20Adicionar%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C377%2C220%2C397%22%20href%3D%22Meu%2520Perfil.bmml%22%20alt%3D%22Meu%20Perfil%22%20id%3D%2210%22/%3E</map>
         <src>./assets/symbols.bmml#master_page</src>
       </controlProperties>
     </control>
