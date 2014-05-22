@@ -1,0 +1,123 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1299" measuredH="1048" mockupW="960" mockupH="1024">
+  <controls>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SubTitle" x="568" y="236" w="-1" h="-1" measuredW="109" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Meu%20Perfil</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="339" y="24" w="960" h="1024" measuredW="960" measuredH="1024" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C213%2C220%2C233%22%20href%3D%22Memorandos.bmml%22%20alt%3D%22Memorandos%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C233%2C220%2C253%22%20href%3D%22Memorando%2520Adicionar%25201.bmml%22%20alt%3D%22Memorando%20Adicionar%201%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C254%2C220%2C274%22%20href%3D%22Memorando%2520Modelos.bmml%22%20alt%3D%22Memorando%20Modelos%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C274%2C220%2C294%22%20href%3D%22Memorando%2520Adicionar%2520Modelo.bmml%22%20alt%3D%22Memorando%20Adicionar%20Modelo%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C295%2C220%2C315%22%20href%3D%22Pessoa.bmml%22%20alt%3D%22Pessoa%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C315%2C220%2C335%22%20href%3D%22Pessoa%2520Adicionar.bmml%22%20alt%3D%22Pessoa%20Adicionar%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C377%2C220%2C397%22%20href%3D%22Meu%2520Perfil.bmml%22%20alt%3D%22Meu%20Perfil%22%20id%3D%2210%22/%3E</map>
+        <src>../../memorandos/secretaria-spskills/Mockups/assets/symbols.bmml#master_page</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="568" y="268" w="-1" h="-1" measuredW="35" measuredH="20" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nome</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextInput" x="568" y="288" w="511" h="-1" measuredW="100" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <state>up</state>
+        <text>Fulano%20da%20Silva</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="568" y="330" w="-1" h="-1" measuredW="40" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="568" y="350" w="511" h="-1" measuredW="168" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <state>up</state>
+        <text>emaildofulano@sp.senai.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::PointyButton" x="569" y="583" w="169" h="-1" measuredW="122" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Salvar%20Altera%E7%F5es</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Link" x="692" y="235" w="-1" h="-1" measuredW="117" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alterar%20minha%20senha</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="568" y="388" w="-1" h="-1" measuredW="104" measuredH="20" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Minha%20Assinatura%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="568" y="414" w="-1" h="-1" measuredW="208" measuredH="116" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../memorandos/secretaria-spskills/Mockups/assets/Captura%2520de%2520Tela%25202014-05-15%2520a%25CC%2580s%252014.51.20.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="568" y="539" w="353" h="24" measuredW="353" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="233" y="0" w="-1" h="-1" measuredW="120" measuredH="24" zOrder="0" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Editar%20Assinatura</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="1" w="233" h="-1" measuredW="79" measuredH="23" zOrder="1" locked="false" isInGroup="60"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::TextArea" x="339" y="96" w="958" h="946" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Alert" x="609" y="326" w="519" h="248" measuredW="200" measuredH="115" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Meu%20Perfil%26bm%3BMeu%20Perfil.bmml%26bm%3BMeu%20Perfil.bmml%26bm%3BMeu%20Perfil.bmml%2CMeu%20Perfil%26bm%3BMeu%20Perfil.bmml%26bm%3BMeu%20Perfil.bmml%26bm%3BMeu%20Perfil.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22271%2C512%2C528.5%2C549%22%20href%3D%22Meu%2520Perfil.bmml%22%20alt%3D%22Meu%20Perfil%22%20id%3D%2263%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22530.5%2C512%2C788%2C549%22%20href%3D%22Meu%2520Perfil.bmml%22%20alt%3D%22Meu%20Perfil%22%20id%3D%2263%22/%3E</map>
+        <text>Alterar%20Senha%0A%20%0ACancelar%2C%20Salvar</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="624" y="356" w="-1" h="-1" measuredW="71" measuredH="20" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Senha%20Atual</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="624" y="376" w="483" h="-1" measuredW="36" measuredH="23" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <state>up</state>
+        <text>*****</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="624" y="419" w="-1" h="-1" measuredW="72" measuredH="20" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nova%20Senha</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextInput" x="624" y="439" w="483" h="-1" measuredW="36" measuredH="23" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <state>up</state>
+        <text>*****</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="624" y="482" w="-1" h="-1" measuredW="113" measuredH="20" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Repetir%20nova%20senha</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::TextInput" x="624" y="502" w="483" h="-1" measuredW="36" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <state>up</state>
+        <text>*****</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
